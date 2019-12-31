@@ -13,6 +13,6 @@
     "declarationDir": "./typings",
     "jsx": "react-native"
   },
-  "include": ["/**/*"],
+  "include": ["./**/*"],
   "exclude": ["node_modules", "typings"]
 }
